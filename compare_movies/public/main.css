@@ -1,0 +1,16 @@
+.box{
+    width:100%;
+    padding:10px;
+    margin:auto;
+}
+
+.box1{
+    width:40%;
+    float:left;
+    margin-right:10%;
+    text-align:center;
+}
+
+.body{
+    background-color:black;
+}
